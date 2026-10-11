@@ -282,9 +282,9 @@ The lab's example cost analysis uses a false negative (FN) cost of PKR 6,000 and
 - Human review is required before taking action based on a prediction.
 
 **Owner and version**
-- **Owner:** `ADD_YOUR_NAME`
+- **Owner:** `Muhammad Huzaifa`
 - **Version:** `1.0`
-- **Last updated:** `ADD_DATE`
+- **Last updated:** `9th Oct,2026`
 
 ## Screenshots
 
