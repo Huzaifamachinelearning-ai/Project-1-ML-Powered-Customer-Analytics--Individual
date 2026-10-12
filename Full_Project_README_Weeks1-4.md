@@ -16,7 +16,8 @@ End-to-end machine learning project that predicts customer churn for a telecom p
 ## Week 1: Exploratory Data Analysis 
 
 **Notebook:** `week-1-exploratory-data-analysis-on-kaggle.ipynb`  
-###Screen Short
+
+
 <img width="1535" height="773" alt="image" src="https://github.com/user-attachments/assets/706563fb-1aac-4f23-bf56-427bc4e8644f" />
 
 
